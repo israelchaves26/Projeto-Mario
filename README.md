@@ -11,4 +11,8 @@
   - JavaScript
 <br>
 <br>
-<img src="https://github.com/israelchaves26/Projeto-Mario/blob/main/assets/Desktop.jpg?raw=true" width="600" />
+<p>## Desktop</p>
+<img src="https://github.com/israelchaves26/Projeto-Mario/blob/main/assets/Desktop.jpg?raw=true" width="600px" />
+<br>
+<p>## Desktop e Mobile</p>
+<img src="https://github.com/israelchaves26/Projeto-Mario/blob/main/assets/Apresenta%C3%A7%C3%A3o1_page-0001.jpg?raw=true" width="600px" />
